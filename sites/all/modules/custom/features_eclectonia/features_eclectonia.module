@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Features Eclectonia feature.
+ */
+
+include_once 'features_eclectonia.features.inc';
